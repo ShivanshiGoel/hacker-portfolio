@@ -1336,7 +1336,7 @@ function TemporalLobeRoom({
           >
             <h3 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-400 mb-6 flex items-center cosmic-glow">
               <User className="w-8 h-8 mr-3" />
-              Memory Core Access (dummy temp data)
+              Memory Core Access (dummy temporary data)
             </h3>
 
             <div className="space-y-6 text-sm">
